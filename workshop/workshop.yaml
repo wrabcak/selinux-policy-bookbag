@@ -1,9 +1,14 @@
-name: OpenShift 4 UPI Disconnected Deployment
+name: SELinux policy writing workshop
 
 modules:
     activate:
-    - overview
-    - prepare-environment
-    - exercises
-    - cleanup
-    - solving-resetting
+    - _index
+    - exercise10
+    - exercise11
+    - exercise12
+    - exercise20
+    - exercise21
+    - exercise22
+    - exercise23
+    - exercise24
+    - wrapup

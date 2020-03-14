@@ -1,0 +1,18 @@
+
+:badges:
+:icons: font
+:iconsdir: http://people.redhat.com/~jduncan/images/icons
+:imagesdir: /workshops/selinux_policy/images
+:source-highlighter: highlight.js
+:source-language: yaml
+
+:figure-caption!:
+
+= Wrap Up and Q&A
+
+That wraps up what we have planned for today.  We hope you've learned something valuable about SELinux policies that you can apply in your daily role.
+
+What do you think? How can we help you understand SELinux better?
+
+Thank you for your time and participation!
+

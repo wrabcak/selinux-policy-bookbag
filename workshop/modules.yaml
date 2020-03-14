@@ -1,17 +1,33 @@
 modules:
-    overview:
-        name: Workshop Overview
-        exit_sign: Prepare Environment
-    prepare-environment:
-        name: Prepare Environment
-        exit_sign: Lab Exercises 
-    exercises:
-        name: Lab Exercises
-        exit_sign: Cleanup
-    cleanup:
-        name: Cleanup
-        exit_sign: Resetting and Solving
-    solving-resetting:
-        name: Resetting and Solving
-        exit_sign: Finish Workshop
+    _index:
+        name: SELinux policy writing workshop
+        exit_sign: Start
+    exercise10:
+        name: Introduction to Security Enhanced Linux (SELinux)
+        exit_sign: Next
+    exercise11:
+        name: Introduction SELinux
+        exit_sign: Next
+    exercise12:
+        name: SELinux Contexts
+        exit_sign: Next
+    exercise20:
+        name: Creating Custom SELinux Policy
+        exit_sign: Next
+    exercise21:
+        name: Generating a generic policy
+        exit_sign: Next
+    exercise22:
+        name: Creating a Custom SELinux Application Policy
+        exit_sign: Next
+    exercise23:
+        name: Creating Policy Rules for Network Access
+        exit_sign: Next
+    exercise24:
+        name: Finishing the Policy
+        exit_sign: Next
+    wrapup:
+        name: Wrapup
+        exit_sign: Finish
+
 
